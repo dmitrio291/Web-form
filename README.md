@@ -1,4 +1,4 @@
-# Web-form
+# Web-form in php
 
 ## The Instruction for running the project:
 1) Copy the contents of the web form folder to your local server
